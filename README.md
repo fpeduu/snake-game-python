@@ -7,7 +7,7 @@
 ### ✅ Features 
 
 - [X] Base game
-- [X] Punctuation
+- [X] Points
 - [X] Bugs correction
 - [ ] Restart possibility
 
